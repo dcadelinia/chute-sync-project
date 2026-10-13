@@ -1,0 +1,24 @@
+{
+  "glove_market_segmentation": [
+    {
+      "variant": "The Lone Star Classic",
+      "design_features": ["Black/Burnt Orange", "Custom stitched Texas stamp"],
+      "target_demographics": "General Texas market & local arena fans"
+    },
+    {
+      "variant": "The Oil Patch",
+      "design_features": ["Hi-vis yellow", "Petrol-resistant coated grip palm"],
+      "target_demographics": "Permian Basin workers & industrial centers"
+    },
+    {
+      "variant": "El Vaquero",
+      "design_features": ["Burgundy leather", "Laser-etched floral saddle patterns"],
+      "target_demographics": "Charreada circuits & Hispanic heritage fans"
+    },
+    {
+      "variant": "The Asphalt Wrangler",
+      "design_features": ["Stealth monochromatic black", "Touchscreen fingertips"],
+      "target_demographics": "Metro truck builders & urban lifestyle buyers"
+    }
+  ]
+}

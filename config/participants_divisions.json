@@ -1,0 +1,19 @@
+{
+  "divisions": {
+    "open_ranch_division": {
+      "entry_fee_usd": 600.0,
+      "eligible_participants": "Working cowboys & local independent ranches",
+      "jackpot_payback_pool_percentage": 80.0,
+      "provided_equipment": "Tactical Chute Gear Suite use"
+    },
+    "corporate_alliance_division": {
+      "entry_fee_range_usd": [2500.0, 5000.0],
+      "eligible_participants": "Energy brands, industrial suppliers, heavy machinery companies",
+      "perks": [
+        "LED digital panel advertisement slots",
+        "Comprehensive spatial telemetry efficiency report",
+        "Permanent ownership of 4 custom-branded tactical team suits"
+      ]
+    }
+  }
+}
